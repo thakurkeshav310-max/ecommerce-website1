@@ -1,7 +1,7 @@
 import {AiFillStar} from "react-icons/ai";
 
 const products=[{
-    img:"https://th.bing.com/th?id=OIF.CEk18ydkZw2%2fi4%2fZFQtTQQ&w=170&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+    img:"https://th.bing.com/th/id/OPAC.4TkM89PhTkCv9A474C474?w=592&h=550&o=5&dpr=1.3&pid=21.1",
     title:"Nike Air Monarch Iv",
     star:<AiFillStar className="rating-star"/>,
     reviews:"(123 reviews)",
@@ -12,7 +12,7 @@ const products=[{
     category:"sneakers",
 },
 {
-img:"https://th.bing.com/th/id/OIF.2d5kPJgoxEFsCH0KeRHiXg?w=178&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+img:"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/311110/02/sv01/fnd/IND/fmt/png/Swift-Pulse-Men's-Training-Shoes",
     title:"Nike Air Monarch Iv",
     star:<AiFillStar className="rating-star"/>,
     reviews:"(123 reviews)",
@@ -23,7 +23,7 @@ img:"https://th.bing.com/th/id/OIF.2d5kPJgoxEFsCH0KeRHiXg?w=178&h=180&c=7&r=0&o=
     category:"sneakers",
 },
 {
-img:"https://th.bing.com/th?id=OIF.QTMoj4iiqsYz%2fpesWqzOcw&w=142&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+img:"https://th.bing.com/th?id=OIF.QTMoj4iiqsYz%2fpesWqzOcw&w=142&h=180&c=7&r=0&o=7&dpr=1.3&pid=",
     star:<AiFillStar className="rating-star"/>,
     reviews:"(123 reviews)",
     prevPrice:"$140,00",
@@ -45,7 +45,7 @@ img:"https://th.bing.com/th/id/OIP.QYhLx08Y1wSOtj33yZ_k4QHaHa?w=172&h=180&c=7&r=
 },
 
 {
-img:"https://www.bing.com/th/id/OIF.NWYiSHGztdbYZDUGAAt1GA?w=193&h=193&c=8&rs=1&qlt=90&r=0&o=6&dpr=1.3&pid=3.1&rm=2",
+img:"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/311110/02/sv01/fnd/IND/fmt/png/Swift-Pulse-Men's-Training-Shoes",
     title:"Nike Air Monarch Iv",
     star:<AiFillStar className="rating-star"/>,
     reviews:"(123 reviews)",
@@ -124,7 +124,7 @@ img:"https://th.bing.com/th/id/OIP.AgvjR2EEA3KLyUYSJxGA9wHaG5?w=195&h=181&c=7&r=
     category:"flats",
 },
 {
-img:"https://th.bing.com/th?id=OIF.4%2fwZjWw7WfNHrMe%2bj5wN2A&w=186&h=186&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+img:"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/311110/02/sv01/fnd/IND/fmt/png/Swift-Pulse-Men's-Training-Shoes",
     title:"Nike Air Monarch Iv",
     star:<AiFillStar className="rating-star"/>,
     reviews:"(123 reviews)",

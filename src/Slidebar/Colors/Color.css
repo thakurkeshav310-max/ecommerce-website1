@@ -1,0 +1,9 @@
+.color-title{
+    margin-top: 2rem;
+}
+@media (max-width:768px) {
+    .color-title{
+        text-align: center;
+        font-size: 20px;
+    }
+}

@@ -24,6 +24,7 @@ img:"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750
 },
 {
 img:"https://th.bing.com/th?id=OIF.QTMoj4iiqsYz%2fpesWqzOcw&w=142&h=180&c=7&r=0&o=7&dpr=1.3&pid=",
+     title:"Nike Air Monarch Iv",
     star:<AiFillStar className="rating-star"/>,
     reviews:"(123 reviews)",
     prevPrice:"$140,00",
